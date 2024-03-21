@@ -5,4 +5,5 @@ The repository consists of 3 different branches of the course:
 - Sorthing Algorythms
 - Graph Algorythms
 - Dynamic programming
+
 and the exam solutions
