@@ -1,0 +1,4 @@
+"""
+idea:
+cykl Eulera
+"""
